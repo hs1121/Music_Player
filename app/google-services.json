@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "759018620078",
+    "project_id": "autumn-2234d",
+    "storage_bucket": "autumn-2234d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759018620078:android:4ebcecf1a4e548e82c593f",
+        "android_client_info": {
+          "package_name": "com.example.autumn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759018620078-bg13epid885jgik55t1crohi8jcpr470.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZkXxYyn1YYd5LR-_yBAz8lySjRelgm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "759018620078-bg13epid885jgik55t1crohi8jcpr470.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
